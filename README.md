@@ -1,6 +1,6 @@
 # GMX ~ Guardian Test Suite
 
-Guardian has prepared a comprehensive test suite for Ethernote, all findings are included in the final audit report [here](./GMX_Audit.pdf).
+Guardian has prepared a comprehensive test suite for GMX, all findings are included in the final audit report [here](./GMX_Audit.pdf).
 
 
 Guardian's complete security analysis includes:
